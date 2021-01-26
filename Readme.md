@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Check status][check-image]][check-url]
 
 * Студент: [Тигран Арутюнян](https://up.htmlacademy.ru/adaptive/21/user/1524465).
-* Наставник: `Неизвестно`.
+* Наставник: `Никита Сигов`.(https://htmlacademy.ru/profile/crazer)
 
 ---
 
